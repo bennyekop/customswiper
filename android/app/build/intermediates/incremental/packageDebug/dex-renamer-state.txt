@@ -1,0 +1,4 @@
+#Tue Nov 21 03:50:34 WIB 2017
+base.0=/home/bennyekop/Documents/projects/react_native/snap-carousel/example/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/bennyekop/Documents/projects/react_native/snap-carousel/example/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
